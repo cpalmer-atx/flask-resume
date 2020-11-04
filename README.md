@@ -1,3 +1,3 @@
-# Flask resume template 
+# Resume template built with Flask
 
-A simple Flask resume template based on <https://startbootstrap.com/themes/resume/>.
+A simple Flask resume template created by Rodolfo Ferro based on <https://startbootstrap.com/themes/resume/>
